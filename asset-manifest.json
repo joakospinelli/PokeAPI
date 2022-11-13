@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PokeAPI/static/css/main.76ba9e43.css",
-    "main.js": "/PokeAPI/static/js/main.6fe675f9.js",
+    "main.js": "/PokeAPI/static/js/main.5f7f870f.js",
     "static/js/787.20ea48e4.chunk.js": "/PokeAPI/static/js/787.20ea48e4.chunk.js",
     "static/media/bootstrap-icons.woff?": "/PokeAPI/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
     "static/media/bootstrap-icons.woff2?": "/PokeAPI/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
@@ -26,11 +26,11 @@
     "static/media/fighting.png": "/PokeAPI/static/media/fighting.369e0ec67ce5c409d513.png",
     "index.html": "/PokeAPI/index.html",
     "main.76ba9e43.css.map": "/PokeAPI/static/css/main.76ba9e43.css.map",
-    "main.6fe675f9.js.map": "/PokeAPI/static/js/main.6fe675f9.js.map",
+    "main.5f7f870f.js.map": "/PokeAPI/static/js/main.5f7f870f.js.map",
     "787.20ea48e4.chunk.js.map": "/PokeAPI/static/js/787.20ea48e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76ba9e43.css",
-    "static/js/main.6fe675f9.js"
+    "static/js/main.5f7f870f.js"
   ]
 }
