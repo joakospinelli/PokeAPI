@@ -5,9 +5,108 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(54, 54, 54);
+  color: white;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  opacity: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #656565;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #212121;
+}
+
+footer {
+  text-align: center;
+  border-top: white 1px solid;
+  margin-top: 2%;
+  padding: 2%;
+}
+
+.logo {
+  width: 20%;
+  margin-top: 5%;
+}
+
+.card {
+  color: black;
+  min-width: fit-content;
+  min-height: fit-content;
+  border-radius: 0;
+  text-align: center;
+}
+
+.modal-dialog {
+  color: black;
+}
+
+.modal-dialog .type-logo {
+  width: 5%;
+}
+
+.types-modal {
+  margin-right: 10px;
+}
+
+.subtitle {
+  opacity: 0.5;
+}
+
+.card-header {
+  height: 8vh;
+  overflow-y: auto;
+}
+
+.card-body {
+  height: 20vh;
+  overflow-y: auto;
+}
+
+.type-logo {
+  width: 20%;
+}
+
+.display {
+  align-items: flex-start;
+  justify-items: start;
+  justify-content: start;
+}
+
+.row-display {
+  margin-bottom: 20px;
+}
+
+.btn-container {
+  text-align: center;
+}
+
+.displayer-btn {
+  margin: 10px;
+}
+
+.search-page {
+  text-align: center;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.bi {
+  float: right;
+}
+
+header {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
