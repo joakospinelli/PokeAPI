@@ -24,7 +24,7 @@ function Displayer(props) {
     }
 
     const renderPokemons = async () => {
-        const url = `http://pokeapi.co/api/v2/pokemon/?offset=${ (page - 1) * 24 }&limit=24`;
+        const url = `https://pokeapi.co/api/v2/pokemon/?offset=${ (page - 1) * 24 }&limit=24`;
         const api = await fetch(url);
         const info = await api.json();
         setPokemons(info);
