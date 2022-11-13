@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.1f0b4b91.css",
+    "main.js": "/pokeapi/static/js/main.9db4475d.js",
+    "static/js/787.20ea48e4.chunk.js": "/pokeapi/static/js/787.20ea48e4.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/pokeapi/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/pokeapi/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/pokeapi-logo.png": "/pokeapi/static/media/pokeapi-logo.d02faeebc1e3f8c54c4e.png",
+    "static/media/dragon.png": "/pokeapi/static/media/dragon.79b052bca7eab6836767.png",
+    "static/media/psychic.png": "/pokeapi/static/media/psychic.8b5de523a0f66546a4f0.png",
+    "static/media/grass.png": "/pokeapi/static/media/grass.210bc83ccdaf8fe3825b.png",
+    "static/media/dark.png": "/pokeapi/static/media/dark.2ba75ae68499125e14b2.png",
+    "static/media/poison.png": "/pokeapi/static/media/poison.c04972cda154aa005796.png",
+    "static/media/bug.png": "/pokeapi/static/media/bug.190b9d8dadde5d794656.png",
+    "static/media/normal.png": "/pokeapi/static/media/normal.2e09e1c3d6cfefe8cb75.png",
+    "static/media/ghost.png": "/pokeapi/static/media/ghost.4191449b694230c58cec.png",
+    "static/media/fire.png": "/pokeapi/static/media/fire.18ae621a5479b71cb354.png",
+    "static/media/rock.png": "/pokeapi/static/media/rock.20c1fd5647216368ff7c.png",
+    "static/media/fairy.png": "/pokeapi/static/media/fairy.567cd96bb0f1ad04a75d.png",
+    "static/media/steel.png": "/pokeapi/static/media/steel.7151eff9bf69bbfd1edb.png",
+    "static/media/water.png": "/pokeapi/static/media/water.c676f85d90c1121cfa8b.png",
+    "static/media/flying.png": "/pokeapi/static/media/flying.4cceed78b950812e8feb.png",
+    "static/media/ice.png": "/pokeapi/static/media/ice.d733694aeabd3e4bc986.png",
+    "static/media/ground.png": "/pokeapi/static/media/ground.a7180a2b1b931d54f152.png",
+    "static/media/electric.png": "/pokeapi/static/media/electric.f26f361300015403932b.png",
+    "static/media/fighting.png": "/pokeapi/static/media/fighting.369e0ec67ce5c409d513.png",
+    "index.html": "/pokeapi/index.html",
+    "main.1f0b4b91.css.map": "/pokeapi/static/css/main.1f0b4b91.css.map",
+    "main.9db4475d.js.map": "/pokeapi/static/js/main.9db4475d.js.map",
+    "787.20ea48e4.chunk.js.map": "/pokeapi/static/js/787.20ea48e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0b4b91.css",
+    "static/js/main.9db4475d.js"
+  ]
+}
